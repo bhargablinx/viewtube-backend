@@ -1,0 +1,1 @@
+// all our constants will be stored here so that we can easily edit them here
